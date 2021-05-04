@@ -1,0 +1,1 @@
+# magicverse-command
